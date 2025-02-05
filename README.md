@@ -5,7 +5,7 @@
 
 ![jholsumback GitHub stats](https://github-readme-stats.vercel.app/api?username=jholsumback&show_icons=true&theme=onedark)
 
-### Tecnologias
+### 🖥️ Tecnologias 
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -18,9 +18,9 @@ Sempre tive grande interesse pela área de tecnologia e, por isso, estou em tran
 
 ## Contato
 
-E-mail: jholsumback3@gmail.com
+📧E-mail: jholsumback3@gmail.com
 
-WhatsApp: (44)98859-6932
+📱WhatsApp: (44)98859-6932
  
  
 
