@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Jhonatan Sumback 🙋‍♂️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jhonatan-sumback-267244113)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-sumback-267244113)
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jholsumback)
 
 ![jholsumback GitHub stats](https://github-readme-stats.vercel.app/api?username=jholsumback&show_icons=true&theme=onedark)
