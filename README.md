@@ -16,6 +16,9 @@
 </div><br/>
 Sempre tive grande interesse pela área de tecnologia e, por isso, estou em transição de carreira para atuar como desenvolvedor, uma área pela qual sou verdadeiramente apaixonado, atualmente estou cursando Pós-graduação em Engenharia de Software e aperfeiçoando as linguagens de programação.
 
+## Perfil na DIO
+[![DIO](https://img.shields.io/badge/DIO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.dio.me/users/jholsumback3)
+
 ## Contato
 
 📧E-mail: jholsumback3@gmail.com
