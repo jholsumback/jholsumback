@@ -20,7 +20,7 @@
 
 
 </div><br/>
-Sempre tive grande interesse pela área de tecnologia e, por isso, estou em transição de carreira para atuar como desenvolvedor, uma área pela qual sou verdadeiramente apaixonado, atualmente estou cursando Pós-graduação em Engenharia de Software e Análise e Desenvolvimento de Sistemas e aperfeiçoando as linguagens de programação.
+Sou Engenheiro de Produção com pós-graduação em Engenharia de Software, estou em processo de migração de carreira. Atualmente cursando Análise e Desenvolvimento de Sistemas. Tenho formação complementar em Python, SQL e desenvolvimento web, com foco em resolver problemas reais por meio da tecnologia. Finalizei o bootcamp Python Developer (DIO) e sigo me aperfeiçoando diariamente, com dedicação especial à fluência em inglês e ao aprofundamento em ferramentas modernas de desenvolvimento.
 
 ## Perfil na DIO
 [![DIO](https://img.shields.io/badge/DIO-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.dio.me/users/jholsumback3)
