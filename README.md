@@ -22,7 +22,7 @@ Sou Engenheiro de Produção com pós-graduação em Engenharia de Software, est
 <img
     align="left"
      alt="CSS"
-     title="JAVA"
+     title="Java"
      width="40px"
      style="padding-rigth: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
@@ -54,7 +54,7 @@ Sou Engenheiro de Produção com pós-graduação em Engenharia de Software, est
 <img
     align="left"
      alt="CSS"
-     title="GIT"
+     title="Git"
      width="40px"
      style="padding-rigth: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" 
@@ -62,7 +62,7 @@ Sou Engenheiro de Produção com pós-graduação em Engenharia de Software, est
 <img
     align="left"
      alt="CSS"
-     title="GITHUB"
+     title="Github"
      width="40px"
      style="padding-rigth: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
@@ -78,7 +78,7 @@ Sou Engenheiro de Produção com pós-graduação em Engenharia de Software, est
 <img
     align="left"
      alt="CSS"
-     title="VUEJS"
+     title="Vuejs"
      width="40px"
      style="padding-rigth: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" 
@@ -86,7 +86,7 @@ Sou Engenheiro de Produção com pós-graduação em Engenharia de Software, est
 <img
     align="left"
      alt="CSS"
-     title="NODEJS"
+     title="Nodejs"
      width="40px"
      style="padding-rigth: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
