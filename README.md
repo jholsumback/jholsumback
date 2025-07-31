@@ -86,7 +86,7 @@ Sou Engenheiro de Produção com pós-graduação em Engenharia de Software, est
 <img
     align="left"
      alt="CSS"
-     title="VUEjs"
+     title="NODEJS"
      width="40px"
      style="padding-rigth: 10px;"
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
